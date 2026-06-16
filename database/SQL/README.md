@@ -1,1 +1,1 @@
-Database SSQL File
+Database SQL File
